@@ -1,0 +1,44 @@
+results:
+0:
+datasource:
+sourcename: "openstreetmap"
+attribution: "© OpenStreetMap contributors"
+license: "Open Database License"
+url: "https://www.openstreetmap.org/copyright"
+name: "French House"
+street: "Dean Street"
+suburb: "Soho"
+city: "Westminster"
+county: "Greater London"
+state: "England"
+postcode: "W1D 5BG"
+country: "United Kingdom"
+country_code: "gb"
+lon: -0.13171440925613825
+lat: 51.512739499999995
+state_code: "ENG"
+formatted: "French House, Dean Street, Westminster, W1D 5BG, United Kingdom"
+address_line1: "French House"
+address_line2: "Dean Street, Westminster, W1D 5BG, United Kingdom"
+category: "catering.pub"
+result_type: "amenity"
+rank:
+importance: 0.8680231944676411
+popularity: 8.988490181891963
+confidence: 0.7071428571428572
+confidence_city_level: 0
+confidence_street_level: 0
+match_type: "full_match"
+place_id: "51aa62158c04dcc0bf5906efab72a1c14940f00102f901167ebf1000000000c0020192030c4672656e636820486f757365"
+bbox:
+lon1: -0.1317827
+lat1: 51.5126897
+lon2: -0.1316448
+lat2: 51.512788
+query:
+text: "The French House, Dean Street, London"
+parsed:
+house: "the french house"
+street: "dean street"
+city: "london"
+expected_type: "amenity"
