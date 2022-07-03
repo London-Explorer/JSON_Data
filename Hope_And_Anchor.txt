@@ -1,10 +1,8 @@
-{
-  pub: The Hope and Anchor, London
-  datasource:
-  sourcename: "openstreetmap"
-  attribution: "© OpenStreetMap contributors"
-  license: "Open Database License"
-  url: "https://www.openstreetmap.org/copyright"
+datasource:
+sourcename: "openstreetmap"
+attribution: "© OpenStreetMap contributors"
+license: "Open Database License"
+url: "https://www.openstreetmap.org/copyright"
 name: "The Hope and Anchor"
 housenumber: "207"
 street: "Upper Street"
@@ -36,4 +34,3 @@ lon1: -0.1034631
 lat1: 51.5432081
 lon2: -0.1033631
 lat2: 51.5433081
-}
