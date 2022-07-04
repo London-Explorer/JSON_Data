@@ -1,0 +1,30 @@
+Hammersmith <- list(
+#The Dove
+list(Name="The Dove",
+     Location=c(51.49047549657488, -0.2348399695843901),
+     Type="Pub",
+     Area="Hammersmith",
+     Description="Historic Pub in West London, overlooking the Thames"),
+list(Name="Furnivall Sculling Club", 
+     Lat = 51.48990767151801, Lon= -0.23170178499606206,
+     Type="Film Location",
+     Area="Hammersmith",
+     Description="Used as a film location in the James Bond Film",
+     Sport="Rowing"),
+list(Name="Rutland Arms",
+     Lat = 51.489683879704735, Lon = -0.23117607200187404,
+     Type="Pub",
+     Area="Hammersmith",
+     Description="Historic Pub in West London, overlooking the Thames"),
+list(Name="The Blue Anchor",
+     Lat=51.489556952516466,Lon= -0.23086493574000766,
+     Type="Pub",
+     Area="Hammersmith",
+     Description="Historic Pub in West London, overlooking the Thames"),
+list(Name="The Old City Arms",
+     Lat=51.48931645792755, Lon = -0.2290195758420415,
+     Type="Pub",
+     Area="Hammersmith",
+     Description="Historic Pub in West London, overlooking the Thames")
+)
+
