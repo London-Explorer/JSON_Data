@@ -1,0 +1,21 @@
+list(
+name =  "The Hope and Anchor",
+housenumber =  "207",
+street =  "Upper Street",
+suburb =  "Highbury",
+district =  "London Borough of Islington",
+city =  "London",
+county =  "Greater London",
+state =  "England",
+postcode =  "N1 1RL",
+country =  "United Kingdom",
+country_code =  "gb",
+lon =  -0.1034131,
+lat =  51.5432581,
+state_code =  "ENG",
+formatted =  "The Hope and Anchor, 207 Upper Street, London, N1 1RL, United Kingdom",
+address_line1 =  "The Hope and Anchor",
+address_line2 =  "207 Upper Street, London, N1 1RL, United Kingdom",
+category =  "catering.pub",
+result_type =  "amenity"
+)
